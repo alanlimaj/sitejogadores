@@ -1,0 +1,59 @@
+img{
+
+    height: 200px;
+    
+}
+
+#base{
+    
+    background: white;
+    align-items: center;
+    justify-content: center; 
+    width:500px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+
+body{
+    background: linear-gradient(rgb(112, 112, 235),black);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    color: white;
+    font-family: verdana;
+    font-weight: bold;
+}
+
+h2{
+
+    font-size: 16px;
+    
+}
+
+#fotos{
+
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    justify-content: center;
+}
+
+button{
+    padding: 5px 30px;
+}
+
+#areabotao{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
